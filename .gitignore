@@ -2,3 +2,5 @@ ConsoleApp.SQLite/bin
 ConsoleApp.SQLite/obj
 EFGetStarted.AspNetCore.NewDb/EFGetStarted.AspNetCore.NewDb/bin
 EFGetStarted.AspNetCore.NewDb/EFGetStarted.AspNetCore.NewDb/obj
+EFGetStarted.AspNetCore.ExistingDb/EFGetStarted.AspNetCore.ExistingDb/bin
+EFGetStarted.AspNetCore.ExistingDb/EFGetStarted.AspNetCore.ExistingDb/obj
